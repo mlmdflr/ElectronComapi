@@ -1,0 +1,12 @@
+{
+  "name": "glazing-window",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "demo": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^29.0.1",
+    "koffi":"^2.8.0"
+  }
+}
