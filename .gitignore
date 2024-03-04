@@ -16,3 +16,8 @@ build/
 *.njsproj
 *.sln
 package-lock.json
+
+
+bin/
+obj/
+.vs/
